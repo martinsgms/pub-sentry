@@ -1,0 +1,72 @@
+
+body {
+    font-family: "Lato", sans-serif; margin:0; color: #E0E0E0; background-color: #000;}
+}
+
+
+header{
+  display:block;
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
+  background:white;
+  text-align:center;
+  padding: 20px 0;
+  background-color: #F00;
+  height: 50px;
+}
+
+
+footer{
+  height: 650px;
+  color: white;
+  padding-top: 15px;
+
+}
+
+.mdd{
+  
+}
+
+a{
+  transition:0.6s;
+  }
+a:hover {
+  text-shadow:2px 2px 10px #CCC;
+  color:#09F;
+  transition: 0.6s; 
+  text-decoration: none;
+}
+
+#escuro{
+  color: #000;
+}
+
+#item{
+  font-weight: bold;
+  font-size: 15pt;
+  color: #212121;
+}
+
+#item:hover{
+  color: #000;
+}
+
+#item:hclick{
+  color: #000;
+}
+
+.row{
+    padding: 10px;
+  }
+ 
+ #barra_menu{
+  	position: fixed; width: 100%;margin-top: -90px;
+  }
+
+  #botoes{
+    font-size: 25pt; margin-left: 8px; margin-bottom: 10px;
+  }
+
+  #mySidenav{background-color: #000;}

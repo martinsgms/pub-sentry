@@ -1,9 +1,13 @@
-<h3>Pub Sentry</h3>
-<hr>
-<p>
-  TCC do meu curso técnico! <br>
-  Consiste num sistema web para a coleta de pedidos em bares e restaurantes. <br>
-  Também faz o controle de consumo de acordo com a mesa do cliente, sendo possível fechar a conta do cliente pelo próprio sistema! <br><br>
-  Utiliza basicamnete JS, Bootstrap, PHP/PDO <br>
-  Pretendo futuramente migrar este projeto para Larevel por fins de estudo :)
-</p>
+### Pub Sentry
+
+TCC do meu Curso Técnico (2018) !
+Sistema Web pensado para ser utilizado em bares e restaurantes.
+
+Possibilita controlar pedidos e exibir o consumo parcial e total para cada mesa do estabelecimento.
+
+Desenvolvido em PHP/PDO puro e persiste dados no MySQL.
+Front-end com Bootstrap e algumas linhas de JQuery.
+
+Futuramente será reescrito para formalização, implementação e estudo de novas tecnologias.
+
+
